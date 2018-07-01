@@ -5,5 +5,6 @@ function theBeatlesPlay(musicians, instruments) {
     arr.push(`${musicians[i]} plays ${instruments[i]}`)
   }
 
+console.log(arr)
   return arr
 }
