@@ -12,4 +12,5 @@ function johnLennonFacts (facts){
   const factsShouted = []
   
   let i = 0
+  while i <
 }
