@@ -16,3 +16,4 @@ function johnLennonFacts (facts){
     factsShouted.push('${facts[i]}!!!')
     i++
 }
+return facts
